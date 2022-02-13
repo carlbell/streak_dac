@@ -3,11 +3,13 @@ import math
 import os
 
 """
-to run, just run "python3 stockmarket.py *inputfile* *outputfile*"
-replacing *inputfile* and *outputfile* with the paths of the
-input and output files respectively
+CS140 - Problem set #4
 
-thanks
+To run, just type "python3 stockmarket.py *inputfile* *outputfile*"
+replacing *inputfile* and *outputfile* with the paths of the
+input and output files respectively.
+
+Thanks!
 
 Aidan Garton and Carl Bell
 
